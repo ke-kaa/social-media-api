@@ -47,7 +47,7 @@ User Profiles
 GET /api/profiles/{username}/ - Retrieve a user profile.
 PUT /api/profiles/{username}/ - Update a user profile.
 Posts
-GET /api/posts/ - Retrieve all posts.
+GET /api/posts/ - Retrieveall posts.
 POST /api/posts/ - Create a new post.
 GET /api/posts/{id}/ - Retrieve a specific post.
 PUT /api/posts/{id}/ - Update a specific post.
